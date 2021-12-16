@@ -16,3 +16,5 @@ fields:
     schema:
       format: markdown
   label: Blog Content
+pages:
+- src/posts/dasd.md
