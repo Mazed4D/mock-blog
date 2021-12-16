@@ -7,13 +7,12 @@ sections:
 - type: document
   path: src/posts
   label: Blogposts
-  match: "**/*"
 - type: directory
   path: src/posts
   label: Blogposts
   create: all
   match: "**/*"
-  new_doc_ext: ".md"
+  new_doc_ext: md
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
